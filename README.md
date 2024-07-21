@@ -58,7 +58,7 @@ pip install -r requirements.txt
 1. **Start the MongoDB Server**: Ensure your MongoDB server is running.
 2. **Run the Application**:
     ```bash
-    python main.py
+    streamlit run app.py
     ```
 3. **Connect the Wearable Camera**: Pair your wearable camera with your smartphone or tablet via Bluetooth.
 
