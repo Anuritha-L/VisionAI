@@ -27,7 +27,7 @@ def generate_response_llms(prompt):
         ]
     }
     headers = {
-	"x-rapidapi-key": "6ce8754ec7msh19a016b83cda399p1823c8jsnefa4fb321746",
+	"x-rapidapi-key": "key",
 	"x-rapidapi-host": "chat-gpt26.p.rapidapi.com",
 	"Content-Type": "application/json"
     }
